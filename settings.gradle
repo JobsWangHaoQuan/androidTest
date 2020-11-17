@@ -1,2 +1,2 @@
-include ':app', ':listviewtest', ':listviewtest2', ':uibestpractice', ':fragmenttest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest'
+include ':app', ':listviewtest', ':listviewtest2', ':uibestpractice', ':fragmenttest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice', ':filepersistencetest', ':sharepreferencestest', ':databasetest'
 rootProject.name='UIWidgetTest'
