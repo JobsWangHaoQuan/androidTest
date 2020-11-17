@@ -1,0 +1,2 @@
+include ':app', ':listviewtest', ':listviewtest2', ':uibestpractice', ':fragmenttest', ':broadcasttest', ':broadcasttest2', ':broadcastbestpractice'
+rootProject.name='UIWidgetTest'
